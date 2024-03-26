@@ -1,6 +1,6 @@
 <html>
      <head>
-        <title>Tugas1</title>
+        <title>Tugas</title>
      </head>
 
      <body>
