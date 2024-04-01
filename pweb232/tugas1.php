@@ -34,7 +34,7 @@
 	     <td>350</td>
 	     <td>
            
-		    <a href="tugas1.2.php" target="_self"><input type="button" name="update" value="update"></a>
+		    <a href="Tugas1.2.php" target="_self" class="btnU"><i class="fa fa-heart"> update</i></a>
            
 	     </td>		
 	</tr>
@@ -46,7 +46,7 @@
 	     <td>300</td>
 	     <td>450</td>
 	     <td>
-         <a href="tugas1.2.php" target="_self"><input type="button" name="update" value="update"></a>
+         <a href="Tugas1.2.php" target="_self" class="btnU"><i class="fa fa-heart"> update</i></a>
 	     </td>		
 	</tr>
 
@@ -57,7 +57,7 @@
 	     <td>400</td>
 	     <td>4550</td>
 	     <td>
-         <a href="tugas1.2.php" target="_self"><input type="button" name="update" value="update"></a>
+         <a href="Tugas1.2.php" target="_self" class="btnU"><i class="fa fa-heart"> update</i></a>
 	     </td>		
 	</tr>
     </table>
