@@ -1,11 +1,13 @@
 <html>
      <head>
         <title>Tugas</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   	<link rel="stylesheet" href="myStyle.css">
      </head>
 
      <body>
 
-     <a href="tugas1.1.php" target="_self"><input type="button" name="Ganti" value="Ganti"></a>
+     <a href="Tugas1.1.php" target="_self" class="btnA"><i class="fa fa-plus"></i></a>
     <table border="1">
 
 	<tr>
