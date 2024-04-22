@@ -6,7 +6,7 @@
 <body>
 
 <h2>JavaScript</h2>
-
+ 
 <p id="isi">welcome</p>
 <p id="isi1">on javaScript</p>
 <p id="isi2">on javaScript</p>
