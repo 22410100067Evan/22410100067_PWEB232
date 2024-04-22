@@ -6,3 +6,4 @@ function myfungsi2()
 {
     document.getElementById("isi2").innerHTML = "change value element no 2";
 }
+ 
