@@ -4,7 +4,7 @@ function toggleInputFields(shape) {
     var balokCheckbox = document.getElementById('balokCB');
     var kubusCheckbox = document.getElementById('kubusCB');
   
-    if (shape === 'balok') {
+    if ( shape === 'balok') {
         balokInputs.style.display = 'block';
         kubusInputs.style.display = 'none';
         kubusCheckbox.checked = false;
