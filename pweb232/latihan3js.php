@@ -3,7 +3,7 @@
 <body>
 
 <h2>Kalkulator</h2>
-<form>
+<form> 
     nilai 1 :
     <input type="number" name="nilai1" id="nilai1">
     <br>
