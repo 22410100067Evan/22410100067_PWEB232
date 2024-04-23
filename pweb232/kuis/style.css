@@ -1,0 +1,44 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.calculator {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.hidden {
+    display: none;
+}
+
+.calculator h1 {
+    text-align: center;
+}
+
+.calculator div {
+    margin-bottom: 15px;
+}
+
+.calculator label {
+    margin-right: 15px;
+}
+
+.calculator input {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.calculator button {
+    padding: 5px 10px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.calculator span {
+    font-weight: bold;
+}
